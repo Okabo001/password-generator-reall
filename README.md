@@ -83,7 +83,7 @@ If you'd like to contribute to the development of this password generator, pleas
 
 ## License
 
-This password generator is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute it according to the terms of this license.
+This password generator is open-source and available under the Okabo001 @licence. Feel free to use, modify, and distribute it according to the terms of this license.
 
 ## Acknowledgments
 
@@ -92,6 +92,6 @@ This password generator is open-source and available under the [MIT License](LIC
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or suggestions, please feel free to contact me at alexokabo2021@gmail.com
 
 Happy password generating!
